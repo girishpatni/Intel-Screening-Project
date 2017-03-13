@@ -1,6 +1,6 @@
-# Online Auction System
+# Online Auction System Version 1.0
+
 ![](https://img.shields.io/badge/C%23--brightgreen.svg) 
-Version 1.0
 
 /* Author: Girish Patni*
 Contact: gpatni@asu.edu
